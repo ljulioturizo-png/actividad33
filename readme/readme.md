@@ -29,7 +29,51 @@ En esta imagen se muestra el apartado Source Control de Visual Studio Code, dond
 
 Y esta imagen se muestra el apartado de git hub ya enlazado con vs studio,y donde se observa tambien la carpeta de actividad33. Y con ellas las carpetas que creamos dentro del archivo ![imagen 3](<Captura de pantalla 2026-10-09 124749.png>)
 
+#  Barra de actividad de vs code
 
+EXPLRADOR DE ARCHIVOS:Permite ver y organizar las carpetas y archivos del proyecto.
+
+BUSCAR:Sirve para encontrar palabras, fragmentos de código y archivos dentro del proyecto
+
+CONTROL DE CODIGO FUENTE:Permite gestionar los cambios del proyecto y trabajar con Git.
+
+EJECUTAR Y DEPURAR:Permite ejecutar programas y detectar errores durante su funcionamiento.
+
+EXTENSIONES:Permite instalar herramientas adicionales para agregar funciones y facilitar la programación.
+
+
+![imagen 3](<Captura de pantalla 2026-10-15 100342.png>)
+
+
+# Barra de menus de vs code
+File (Archivo): Permite crear, abrir, guardar y cerrar archivos o proyectos.
+
+Edit (Editar): Contiene opciones para copiar, pegar, deshacer y rehacer cambios.
+
+Selection (Selección): Permite seleccionar texto y trabajar con varias líneas o cursores.
+
+View (Ver): Permite mostrar u ocultar paneles y cambiar la distribución de la interfaz.
+
+Go (Ir): Facilita la navegación entre archivos, líneas de código y otras partes del proyecto.
+
+Go (Ir): Facilita la navegación entre archivos, líneas de código y otras partes del proyecto.
+
+Run (Ejecutar): Permite ejecutar y depurar programas
+
+(....): muestra otras opciones como la terminal o la ayuda 
+
+
+![imagen 4](<Captura de pantalla 2026-10-15 093136.png>)
+
+
+## Panel de chat y copilot de vs code
+ Permite interactuar con la inteligencia artificial para resolver dudas, recibir sugerencias de código, corregir errores y obtener ayuda durante el desarrollo de un proyecto. También permite adjuntar archivos como referencia y solicitar que el asistente realice tareas relacionadas con el código.
+![imagen 5](<Captura de pantalla 2026-10-15 102401.png>)
+
+## Panel de terminal de vs code
+ Permite ejecutar comandos directamente en Visual Studio Code mediante una consola, como PowerShell. Se utiliza para ejecutar programas, instalar paquetes, iniciar servidores y realizar tareas relacionadas con el proyecto. En la imagen se observa la ruta de la carpeta actividad33 y el terminal listo para recibir comandos.
+ ![imagen 6](<Captura de pantalla 2026-10-15 102954.png>)
+ 
 entrega de luis santiago julio turizo
 
 
